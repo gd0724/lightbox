@@ -1,0 +1,8 @@
+id,item,wifi,pic,managerId,Breakfast,price,officePhone,cellPhone,email,city,picture,Latitude,Longitude
+7,The Fullerton,no,TheFullerton.jpg,4,no,8000,617-000-0012,781-000-0012,swells@fakemail.com,"Boston, MA",TheFullerton.jpg,24.151818,120.692647
+6,Park22hotel,yes,Park22hotel.jpg,5,yes,12000,617-000-0011,781-000-0011,ajones@fakemail.com,"Boston, MA",Park22hotel.jpg,24.1444318,120.7045463
+5,V Bencoolen,yes,VBencoolen.jpg,5,yes,15000,617-000-0010,781-000-0010,kbyrne@fakemail.com,"Boston, MA",VBencoolen.jpg,24.1353194,120.7010648
+4,Dorsett Singapore,yes,DorsettSingapore.jpg,2,yes,13560,617-000-0009,781-000-0009,gdonovan@fakemail.com,"Boston, MA",DorsettSingapore.jpg,24.1386815,120.6972243
+3,Arcadia,no,Arcadia.jpg,2,no,7500,617-000-0008,781-000-0008,lwong@fakemail.com,"Boston, MA",Arcadia.jpg,24.144513,120.6907429
+2,The Elizabeth,yes,TheElizabeth.jpg,4,yes,11200,617-000-0007,781-000-0007,pgates@fakemail.com,"Boston, MA",TheElizabeth.jpg,24.1384468,120.7036533
+1,Hotel Yan,yes,HotelYan.jpg,1,yes,21000,617-000-0005,781-000-0005,rmoore@fakemail.com,"Boston, MA",HotelYan.jpg,24.1149542,120.6519714
